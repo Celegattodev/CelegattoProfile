@@ -1,0 +1,47 @@
+@media screen and (max-width: 1400px){
+    .txt-aboutme{
+        font-size: 12px;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 1rem;
+    }
+
+    /* cabeçalho */
+    #menu{
+        display: none;
+    }
+
+    #hero{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 0;
+        margin-bottom: 5rem;
+    }
+
+    #FotoCapa{
+        height: 250px;
+    }
+
+    .skills{
+        margin-top: 10rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .skills-box{
+        padding: 2rem;
+        margin: 1rem;
+    }
+
+    .flex{
+        display: block;
+        padding: 5px;
+    }
+}
