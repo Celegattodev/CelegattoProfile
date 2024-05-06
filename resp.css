@@ -44,4 +44,8 @@
         display: block;
         padding: 5px;
     }
+
+    #logohome{
+        font-size: 1.5rem;
+    }
 }
