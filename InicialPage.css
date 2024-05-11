@@ -166,3 +166,17 @@ footer{
     background-color: #90ee90;
     cursor: pointer;
 }
+
+.interface-carrer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mapa{
+    height: 700px;
+}
+
+.summon{
+    visibility: hidden;
+}
